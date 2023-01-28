@@ -7,5 +7,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Toonza555/BONKHUBV2/m
 elseif game.PlaceId == 537413528 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Toonza555/BONKHUBV2/main/buildaboat"))()
 elseif game.PlaceId == 11800876530 then
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Toonza555/BONKHUBV2/main/BlocksEverySecond"))()
 end
