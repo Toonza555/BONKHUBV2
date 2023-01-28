@@ -6,4 +6,6 @@ elseif game.PlaceId == 11523066819 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Toonza555/BONKHUBV2/main/TowerMergeSimulator"))()
 elseif game.PlaceId == 537413528 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Toonza555/BONKHUBV2/main/buildaboat"))()
+elseif game.PlaceId == 11800876530 then
+loadstring(game:HttpGet(""))()
 end
